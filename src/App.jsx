@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState, useMemo, useCallback } from "react";
 import ProductList from"./components/ProductList";
 
@@ -34,3 +35,23 @@ function App(){
   )
 }
 export default App;
+=======
+import React from "react";
+
+import MessageCard  from "./MessageCard"; 
+  const App=()=>{
+    return(
+        <div>
+            <h1>Welcome to the Message Card</h1>
+            <MessageCard title="Hello World" message="This is a simple message card component."/>
+            
+            <MessageCard title="welcome" message="This is a welcome message card component."/>
+        </div>
+    );
+ };
+ export default App;
+
+
+
+
+>>>>>>> c101b4064cd8d3a32a3026b89ccd11c5de8dedfa

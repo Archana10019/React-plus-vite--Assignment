@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "first-react-app",
-=======
-<<<<<<< HEAD
-  "name": "vite-project",
-=======
-  "name": "first-react-app",
->>>>>>> c101b4064cd8d3a32a3026b89ccd11c5de8dedfa
->>>>>>> dd792fb042424a5072071b2fa04a35819122f5a3
+  "name": "assignmrnt",
   "private": true,
   "version": "0.0.0",
   "type": "module",
